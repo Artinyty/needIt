@@ -33,5 +33,5 @@ $(function () {
 
 
 function t() {
-  console.log("не лох")
+  console.log("Ну давай уже чего так долго")
 }
